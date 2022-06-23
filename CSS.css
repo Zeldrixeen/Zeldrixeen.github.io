@@ -1,0 +1,35 @@
+h1 {
+    text-align: center;
+    color: white;
+    text-shadow: 2px 3px 0px black
+}
+h2 {
+    color: white;
+    text-shadow: 2px 3px 0px black
+}
+h3 {
+    color: white;
+    text-shadow: 2px 3px 0px black
+}
+#pelon {
+    font-size: large;
+}
+#pelon1 {
+    font-size: large;
+}
+#comida {
+    width: 25%;
+    height: 50%;
+}
+#boton1 {
+    width: 25%;
+    height: 25%;
+    font-size: x-large;
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-image: url(./jason.jpg);
+}
